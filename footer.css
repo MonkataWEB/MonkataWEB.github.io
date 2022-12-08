@@ -1,0 +1,25 @@
+.footer1{
+  color: white;
+}
+
+.socialul{
+  display: inline-table;
+ 
+
+}
+.socialli{
+  display: inline;
+  padding: 5px;
+ font-size: 30px
+  
+}
+.tablefot{
+  text-align: center;
+
+}
+.tablefot2{
+  text-align: center;
+  margin:auto;
+  left: 20%;
+}
+
